@@ -1,6 +1,6 @@
 # Hi, I'm s4kura 👋
 
-A Computer Science graduate from The University of Hong Kong, focused on AI agents & LLM Systems
+A Computer Science graduate from HKU, focused on AI agents & LLM Systems
 
 ## Experience
 
