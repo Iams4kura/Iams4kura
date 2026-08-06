@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I'm s4kura 👋
 
-<!--
-**Iams4kura/Iams4kura** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Computer Science graduate from The University of Hong Kong, focused on AI agents and AI application development.
 
-Here are some ideas to get you started:
+## Experience
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **ByteDance** — AI Application Development Intern *(May 2026 – Present)*
+- **Ant Group** — AI Agent Development Intern *(Dec 2025 – May 2026)*
+
+## Highlights
+
+- 🏆 ACM-ICPC Regional Contest Bronze Medalist
+- 🤖 Interested in building practical AI agents and intelligent applications
+
+## Featured Projects
+
+- [EchoClaw](https://github.com/Iams4kura/EchoClaw)
+- [Auto-Agent-X](https://github.com/Iams4kura/Auto-Agent-X)
