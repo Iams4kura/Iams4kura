@@ -4,8 +4,10 @@ A Computer Science graduate from HKU, focused on AI agents & LLM Systems
 
 ## Experience
 
-- **ByteDance** — AI Application Development Intern *(May 2026 – Present)*
-- **Ant Group** — AI Agent Development Intern *(Dec 2025 – May 2026)*
+- **ByteDance** *(May 2026 – Present)* <br>
+  *Dreamina AI* — AI Application Development
+- **Ant Group** *(Dec 2025 – May 2026)* <br>
+  *SmartUnit* — AI Agent Development
 
 ## Highlights
 
